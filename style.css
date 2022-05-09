@@ -25,7 +25,7 @@ h2 {text-decoration:overline;}
 h3 {text-decoration:overline;}
 span {
   background-color:#FFFF;
-  border-style:hidden;
+  border-style:none;
   line-height:200%;
   width:80%;
   padding:10px;
