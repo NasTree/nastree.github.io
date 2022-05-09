@@ -34,10 +34,9 @@ span {
   text-transform: uppercase;
   writing-mode: none;
   text-align: center;
-  font-size: 1.5px;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 0.8em;
-  border-style:hidden;
 }
 nav ul {
   padding: 0 0 2em 0;
