@@ -28,9 +28,10 @@ div
 	border:2px solid #a1a1a1;
 	padding:10px 40px; 
 	background:#FFFF;
-	width:300px;
+	width:80%;
 	border-radius:25px;
 	margin:0 10%;
+	box-shadow: 5px 5px 10px #888888;
 }
 nav ul {
   padding: 0 0 2em 0;
