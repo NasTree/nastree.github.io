@@ -73,6 +73,7 @@ nav ul li:nth-child(7) a:hover {
 }
 footer {
   position: fixed;
+  margin:10px 0;
   bottom: 0;
   text-align: center;
   width: 100vw;
