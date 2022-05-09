@@ -21,6 +21,13 @@ header p {
   color: #a7b3c0;
   font-size: 0.9em;
 }
+box {
+  background-color:#0000;
+  width:250px;        
+  padding:10px;        
+  border:5px solid gray;        
+  margin:10px;
+}
 span {
   padding: 0 0 2em 0;
   margin: 0 auto;
