@@ -1,0 +1,70 @@
+body {
+  margin: 0 auto;
+  background: #c5d0d8;
+  text-align: center;
+  max-height: 100vh;
+  font-family: m-plus-rounded-1c, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+a {
+  text-decoration: none;
+  color: #e9ecef;
+  transition: 0.5s;
+}
+header img {
+  width: 100px;
+  margin: 4em 0 0;
+}
+header p {
+  margin: 1em;
+  color: #a7b3c0;
+  font-size: 0.9em;
+}
+nav ul {
+  padding: 0 0 2em 0;
+  margin: 0 auto;
+  text-transform: uppercase;
+  writing-mode: vertical-rl;
+  text-align: left;
+  font-size: 1.5em;
+  font-weight: bold;
+  letter-spacing: 0.8em;
+}
+nav ul li {
+  list-style: none;
+}
+nav ul li a {
+  display: block;
+  padding: 1.3vw;
+}
+nav ul li:nth-child(1) a:hover {
+  color: #90abc7;
+}
+nav ul li:nth-child(2) a:hover {
+  color: #99acc6;
+}
+nav ul li:nth-child(3) a:hover {
+  color: #a7adc3;
+}
+nav ul li:nth-child(4) a:hover {
+  color: #b2aec2;
+}
+nav ul li:nth-child(5) a:hover {
+  color: #bfafc0;
+}
+nav ul li:nth-child(6) a:hover {
+  color: #ceb0be;
+}
+nav ul li:nth-child(7) a:hover {
+  color: #d4b0bd;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  width: 100vw;
+  font-size: 0.9em;
+  color: #a7b3c0;
+  background: #c5d0d8;
+}
