@@ -32,9 +32,9 @@ div
 	border-radius:8px;
 	margin:10% 10%;
 	box-shadow: 5px 5px 10px #888888;
-p {text-align: left;
-	}
 }
+div p {text-align: left;
+	}
 nav ul {
   padding: 0 0 2em 0;
   margin: 0 auto;
