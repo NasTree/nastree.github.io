@@ -24,7 +24,7 @@ h1 {text-decoration:overline;}
 h2 {text-decoration:overline;}
 h3 {text-decoration:overline;}
 div p {
-	text-align: center;
+	align: center;
 	padding:10px 40px; 
 	background:#FFFF;
 	width:70%;
