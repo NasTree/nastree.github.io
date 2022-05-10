@@ -12,9 +12,12 @@ a {
   transition: 0.5s;
 }
 header img {
+    bottom: 10em;
+    width: 40%;
+    padding: 10px 2rem;
+    box-sizing: border-box;
+    text-align: center;
   position: fixed;
-  width: 100px;
-  margin: 4em 0 0;
 }
 header p {
   position: fixed;
@@ -34,10 +37,10 @@ div {
 	border-radius:8px;
 	margin:20vh 5vw 5vh 50vw;
 	box-shadow: 5px 5px 10px #888888;
-     p {
+}
+p {
 	     text-align: left;
 	}
-}
 nav ul {
   padding: 0 0 2em 0;
   margin: 0 auto;
