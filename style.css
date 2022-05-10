@@ -29,9 +29,10 @@ div {
 	position: fixed;
 	padding:10px 40px; 
 	background:#FFFF;
-	width:50vw;
+	width:auto;
+	height: 65vh;
 	border-radius:8px;
-	margin:20vh auto 5vh 50vw;
+	margin:20vh 5vw 5vh 50vw;
 	box-shadow: 5px 5px 10px #888888;
      p {
 	     text-align: left;
