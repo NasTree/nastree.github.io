@@ -60,19 +60,11 @@ div {
         color: #333;
 }
 div2 {
-	padding:20px; 
-	background:#dddddd;
-	width: 50vw;
-	height: 150px;
-	border-radius:8px;
-	margin:0 200px;
-	box-shadow: 5px 5px 10px #888888;
-	text-align: left;
-	font-size: 18px;
-        line-height: 1.8em;
-        font-family: Cambria, 'Microsoft Yahei', sans-serif;
-        font-weight: 100;
-        color: #333;
+	border-radius: 8px;
+        background: #dddddd;
+        padding: 20px; 
+        width: 200px;
+        height: 150px;
 }
 hr {
         border: 0;
