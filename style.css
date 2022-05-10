@@ -73,7 +73,6 @@ nav ul li:nth-child(7) a:hover {
   color: #d4b0bd;
 }
 footer {
-  position: fixed;
   bottom: 0;
   text-align: center;
   width: 100vw;
