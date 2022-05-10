@@ -27,7 +27,7 @@ h3 {text-decoration:overline;}
 div {
 	padding:10px 40px; 
 	background:#FFFF;
-	width: calc(70vw - 20px);
+	width: calc(70vw - 20vw);
 	border-radius:8px;
 	margin:0 15vw 5vh 15vw;
 	box-shadow: 5px 5px 10px #888888;
