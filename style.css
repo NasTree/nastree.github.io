@@ -21,7 +21,14 @@ header p {
   color: #a7b3c0;
   font-size: 0.9em;
 }
-h1 {text-decoration:overline;}
+h1 {tfont-weight: 900;
+    font-style: normal;
+    margin: 0;
+    margin-top: 3px;
+    font-size: 2rem;
+    line-height: 1.2em;
+    border-left: 5px dotted #c5d0d8;
+    padding-left: 10px;}
 h2 {text-decoration:overline;}
 h3 {text-decoration:overline;}
 div {
