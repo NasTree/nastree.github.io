@@ -62,7 +62,8 @@ div {
 div2 {
 	padding:10px 40px; 
 	background:#dddddd;
-	width: auto;
+	width: 50vw;
+	height: 150px;
 	border-radius:8px;
 	margin:0 15vw 0 15vw;
 	box-shadow: 5px 5px 10px #888888;
