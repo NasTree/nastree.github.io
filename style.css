@@ -27,9 +27,9 @@ div p {
 	align: center;
 	padding:10px 40px; 
 	background:#FFFF;
-	width:70%;
+	width:70vw;
 	border-radius:8px;
-	margin:10px 0px;
+	margin:10px 5px;
 	box-shadow: 5px 5px 10px #888888;
 }
 nav ul {
