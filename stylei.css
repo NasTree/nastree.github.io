@@ -22,7 +22,7 @@ body {
   transition: 1s;
   box-shadow: 0 0 10px #ccc; }
   .wrapper:hover aside {
-    background: #eee; }
+    background: #CBCCBE; }
 
 aside {
   line-height: 1.6em;
@@ -60,8 +60,8 @@ main {
   width: 70%;
   float: right;
   letter-spacing: 0.2px;
-  border-top: 2px solid #eee;
-  border-bottom: 2px solid #eee; }
+  border-top: 2px solid #CBCCBE;
+  border-bottom: 2px solid #CBCCBE; }
   main ruby rt {
     font-size: 0.6em;
     text-align: center; }
