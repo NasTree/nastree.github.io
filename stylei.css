@@ -45,12 +45,13 @@ aside {
   aside ul#info {
     margin: 0;
     padding: 0;
+    white-space: nowrap;
     font-family: monospace;
     color: #000; }
     aside ul#info li {
       list-style: none; }
       aside ul#info .fa {
-        font-size: 0.8em;
+        font-size: 0.7em;
         color: #333; }
 
 main {
