@@ -28,6 +28,7 @@ aside {
   line-height: 1.6em;
   width: 25%;
   float: left;
+  font-size: 0.94em;
   padding: 1em;
   box-sizing: border-box;
   transition: 0.5s; }
@@ -45,8 +46,6 @@ aside {
   aside ul#info {
     margin: 0;
     padding: 0;
-    white-space: nowrap;
-    font-size: 0.75em;
     font-family: monospace;
     color: #000; }
     aside ul#info li {
